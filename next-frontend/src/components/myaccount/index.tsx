@@ -40,7 +40,7 @@ const MyAccount = () => {
 
                   <div>
                     <p className="font-medium text-dark mb-0.5">
-                      Samit Koyom
+                      Soontorn Choosenpom
                     </p>
                     <p className="text-custom-xs">เป็นสมาชิกตั้งแต่ 2025</p>
                   </div>
@@ -262,7 +262,7 @@ const MyAccount = () => {
               }`}
             >
               <p className="text-dark">
-                สวัสดี Samit (ถ้าไม่ใช่คุณ ? &nbsp;
+                สวัสดี Soontorn (ถ้าไม่ใช่คุณ ? &nbsp;
                 <a
                   href="#"
                   className="text-red ease-out duration-200 hover:underline"
@@ -356,7 +356,7 @@ const MyAccount = () => {
                           fill=""
                         />
                       </svg>
-                      Name: Samit Koyom
+                      Name: Soontorn Choosenpom
                     </p>
 
                     <p className="flex items-center gap-2.5 text-custom-sm">
@@ -375,7 +375,7 @@ const MyAccount = () => {
                           fill=""
                         />
                       </svg>
-                      Email: samit@email.com
+                      Email: soontorn@email.com
                     </p>
 
                     <p className="flex items-center gap-2.5 text-custom-sm">
@@ -488,7 +488,7 @@ const MyAccount = () => {
                           fill=""
                         />
                       </svg>
-                      Name: Samit Koyom
+                      Name: Soontorn Choosenpom
                     </p>
 
                     <p className="flex items-center gap-2.5 text-custom-sm">
@@ -507,7 +507,7 @@ const MyAccount = () => {
                           fill=""
                         />
                       </svg>
-                      Email: samit@email.com
+                      Email: soontorn@email.com
                     </p>
 
                     <p className="flex items-center gap-2.5 text-custom-sm">
@@ -589,7 +589,7 @@ const MyAccount = () => {
                         name="firstName"
                         id="firstName"
                         placeholder="ชื่อ"
-                        defaultValue="Samit"
+                        defaultValue="Soontorn"
                         className="rounded-md border border-gray-3 bg-gray-1 placeholder:text-dark-5 w-full py-2.5 px-5 outline-none duration-200 focus:border-transparent focus:shadow-input focus:ring-2 focus:ring-blue/20"
                       />
                     </div>
